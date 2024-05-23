@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Modeling**
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes](https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes)
+- 👨‍💻 All of my tableau projects are available at [https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes](https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes)
 
 - 📫 How to reach me **ashinde@syr.edu**
 
