@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek1897&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek1897" /> </p>
 
-- 🌱 I’m currently learning **Data Modeling**
+- 🌱 I’m currently learning **ETL Pipiline**
 
 - 👨‍💻 All of my tableau projects are available at [https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes](https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes)
 
