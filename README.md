@@ -10,7 +10,7 @@
 
 - Portfolio  [https://abhishek1897.github.io/Portfolio_website/](https://abhishek1897.github.io/Portfolio_website/)
 
-- 📫 How to reach me **ashinde@syr.edu**
+- 📫 How to reach me **ashinde18997@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishekshinde189/](https://www.linkedin.com/in/abhishekshinde189/)
 
