@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my tableau projects are available at [https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes](https://public.tableau.com/app/profile/abhishek.shinde2978/vizzes)
 
-- Portfolio  [[[https://abhishek1897.github.io/Portfolio_website/](https://my-folio-auto-craft.lovable.app/)](https://my-folio-auto-craft.lovable.app/)]
+- Portfolio  [[[https://abhishek1897.github.io/Portfolio_website/](https://my-folio-auto-craft.lovable.app/)
 
 - 📫 How to reach me **ashinde18997@gmail.com**
 
